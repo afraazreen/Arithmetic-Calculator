@@ -9,13 +9,10 @@ This contains the code for ensuring. The expression will include particular set 
 a file, where the input line (the expression) will be recorded and print the computed result on the next line. Your calculators must support the following operators on integers and observe the standard operator precedence as shown below (1 to 6, where 1 is the highest and 6 is the lowest. Same precedence operators are evaluated from left to right). 
 
 ### The order of precedence:
-1. Parentheses (possibly nested ones): ( , )
-
-Binary operators:
- 2. power function: x^y.
- 3. operators: *, /
- 4. operators: +, -
-
-Redistribution or publication of this document or its text, by any means, is strictly prohibited.
- 5. operators: >, ≥, ≤, <
- 6. operators: ==, != 
+#### 1. Parentheses (possibly nested ones): 
+#### 2. Binary Operators:
+power function: x^y, operators: *, / operators: +, -
+#### 3. Equality Operators:
+operators: >, ≥, ≤, <
+#### 4. Comparison Operators
+operators: ==, != 
